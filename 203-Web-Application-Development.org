@@ -1,4 +1,4 @@
-* <<<CP1203>>> WEB APPLICATION DEVELOPMENT
+* CP1203 WEB APPLICATION DEVELOPMENT
 :properties:
 :author: B Prabavathy, V S Felix Enigo
 :date: 29 June 2018										
@@ -34,6 +34,11 @@ properties -– Addition and deletion of elements -– Modifying element
 style.
 
 # Why study two server-side frameworks, NodeJS and Django? One will do.
+\begin{comment}
+Sir, Rationale behind the syllabus is as follows
+First 2 units will cover an introduction to web application development followed by the concepts of client side scripting
+Since the students have to study python framework in units 4  and 5, we thought it would be better to refresh python in 3rd unit as he might have done that course only during his 1st sem in UG curriculum
+\end{comment}
 {{{unit}}}
 |Unit III| Introduction to Python |9|
 Python interpreter and interactive mode -- Data types -- Expressions
