@@ -20,7 +20,7 @@
   
 
 {{{unit}}}
-|Unit I | Software Requirement Specification  |9| 
+|Unit I | Software Requirements Specification  |9| 
 Requirement analysis and specification – Requirements gathering and analysis –Formal system specification – Finite State Machines – Petrinets – Object modelling using UML – Use case Model – Class diagrams – Interaction diagrams – Activity diagrams – State chart diagrams – Functional modelling – Data Flow Diagrams.
 
 {{{unit}}}
@@ -49,7 +49,7 @@ After the completion of this course, students will be able to: 
 - Apply formal models to capture requirements
 - Apply appropriate architectural styles and design patterns (K3).
 - Apply various testing techniques(K3).
-- Understand Agile software development methodology
+- Understand Agile software development methodology(K2)
 - Understand the benefits of DevOps practices(K2).
 
       
