@@ -21,23 +21,38 @@
 
 {{{unit}}}
 |Unit I | Software Requirements Specification  |9| 
-Requirement analysis and specification – Requirements gathering and analysis –Formal system specification – Finite State Machines – Petrinets – Object modelling using UML – Use case Model – Class diagrams – Interaction diagrams – Activity diagrams – State chart diagrams – Functional modelling – Data Flow Diagrams.
+Requirement analysis and specification -- Requirements gathering and
+analysis -- Formal system specification -- Finite State Machines --
+Petrinets -- Object modelling using UML -- Use case Model -- Class
+diagrams -- Interaction diagrams -- Activity diagrams -- State chart
+diagrams -- Functional modelling -- Data Flow Diagrams.
 
 {{{unit}}}
 |Unit II|Software Architecture and Design|9| 
-Architectural styles – Layered – Client/server - Tiered - Pipe and filter- Software design – Design process – Design concepts – Coupling – Cohesion – Functional independence – Design patterns – Model-view-controller – Publish-subscribe – Adapter – Command – Strategy – Observer – Proxy – Facade - User interface design.
+Architectural styles -- Layered -- Client/server -- Tiered -- Pipe and
+filter- Software design -- Design process -- Design concepts --
+Coupling -- Cohesion -- Functional independence -- Design patterns --
+Model-view-controller -- Publish-subscribe -- Adapter -- Command --
+Strategy -- Observer -- Proxy -- Facade - User interface design.
 
 {{{unit}}}
 |Unit III| Software Testing |9| 
-Testing – Unit testing – Black box testing– White box testing – Integration and System testing– Regression testing – Debugging - Program analysis – Symbolic execution – Model Checking. 
+Testing -- Unit testing -- Black box testing-- White box testing --
+Integration and System testing-- Regression testing -- Debugging --
+Program analysis -- Symbolic execution -- Model Checking.
 
 {{{unit}}}
 |Unit IV|Agile Software Development|9|
-Introduction to Agile Methodology – Evolution of Agile – Self adaption: Growing and Reflection – Pair Programming – Agile methods - collaboration – Releasing – Planning - Development
+Introduction to Agile Methodology -- Evolution of Agile -- Self
+adaption: Growing and Reflection -- Pair Programming -- Agile methods
+-- collaboration -- Releasing -- Planning -- Development.
 
 {{{unit}}}
 |Unit V| DevOps	|9| 
-DevOps: Motivation-Cloud as a platform - Operations- Deployment Pipeline: Overall Architecture - Building and Testing - Deployment -Crosscutting Concerns:Monitoring - Security Audits Deployment- Case study: Migrating to Microservices
+DevOps: Motivation-Cloud as a platform -- Operations -- Deployment
+Pipeline: Overall Architecture -- Building and Testing -- Deployment
+-- Crosscutting Concerns: Monitoring -- Security Audits Deployment --
+Case study: Migrating to Microservices.
 
 
 

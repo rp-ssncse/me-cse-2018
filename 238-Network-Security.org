@@ -21,8 +21,8 @@
 
 {{{unit}}}
 | Unit I | TCP Attacks | 9 |
-Packet Snifﬁng and Spooﬁng: Packet Snifﬁng -- Packet Spooﬁng --
-Snooﬁng: Snifﬁng and Spooﬁng; Attacks on the TCP Protocol: TCP
+Packet Sniffing and Spoofing: Packet Sniffing -- Packet Spoofing --
+Snoofing: Sniffing and Spoofing; Attacks on the TCP Protocol: TCP
 Protocol Working -- SYN Flooding Attack -- TCP Reset Attack -- TCP
 Session Hijacking Attack.
 
@@ -34,14 +34,14 @@ V5.
 
 {{{unit}}}
 | Unit III | Public Key Infrastructure | 9 |
-Attack on Public Key Cryptography -- Public Key Certiﬁcates: X.509
+Attack on Public Key Cryptography -- Public Key Certificates: X.509
 Authentication services -- Attacks on PKI -- Types of Digital
 Certificates.
 
 {{{unit}}}
 | Unit IV | Security Practice & System Security | 9 |
 Internet Firewalls for Trusted System: Roles of Firewalls -- Types of
-Firewalls -- Netﬁlter -- Iptables -- Firewall design Principles -- DNS
+Firewalls -- Netfilter -- Iptables -- Firewall design Principles -- DNS
 Attacks -- Cache Poisoning -- SET for E-Commerce
 Transactions. Intruder -- Intrusion detection system -- Virus and
 related threats – Countermeasures.
@@ -58,7 +58,7 @@ Protocol -- Computing the keys -- Client authentication -- PKI as
 deployed by SSLAttacks fixed in v3 -- Exportability-Encoding-Secure
 Electronic Transaction (SET).
 
-\hfil *Total: 45*
+\hfill *Total: 45*
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to:
