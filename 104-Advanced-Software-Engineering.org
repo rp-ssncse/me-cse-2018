@@ -1,7 +1,7 @@
-* <<<CP1104>>> ADVANCED SOFTWARE ENGINEERING
+* CP1104 ADVANCED SOFTWARE ENGINEERING
 :properties:
-:author: A Chamundeswari, K Madheswari
-:date: 26 June 2018
+:author: Chitra Babu
+:date: 13 July 2018
 :end:
 
 #+startup: showall
@@ -12,73 +12,56 @@
 
 # reduce the number of objectives to 5
 ** Course Objectives
-- To understand and apply software engineering lifecycle models.
-- To gain knowledge of software requirements and design concepts.
-- To understand software quality assurance techniques.
-- To understand and apply software testing strategies.
-- To be familiar with Agile development technology.
-- To understand DevOps practices and embedded software development
-  process.
+- To understand requirements specification and apply UML diagrams
+- To understand and apply software architectural styles and design patterns.
+- To understand and apply software testing techniques.
+- To be familiar with Agile software development methodology.
+- To understand DevOps practices
+  
 
 {{{unit}}}
-|Unit I | Software Requirements and Design |9| 
-Software life cycle models; Building the requirements model --
-Negotiating requirements -- Validating requirements; Data modeling
-concepts -- Design process -- Design concepts -- Design model --
-Component based development.
+|Unit I | Software Requirement Specification  |9| 
+Requirement analysis and specification – Requirements gathering and analysis –Formal system specification – Finite State Machines – Petrinets – Object modelling using UML – Use case Model – Class diagrams – Interaction diagrams – Activity diagrams – State chart diagrams – Functional modelling – Data Flow Diagrams.
 
 {{{unit}}}
-|Unit II|Agile Software Development|9| 
-Agile software development; SCRUM -- Organization -- Estimation --
-Planning -- Changes in scrum -- Risk in scrum -- Product backlog --
-sprint backlog -- release; Requirements specification using user
-stories�-- Identifying stories and preparing to build; Agile testing
--- Designing the system tests -- Units and their tests.
+|Unit II|Software Architecture and Design|9| 
+Architectural styles – Layered – Client/server - Tiered - Pipe and filter- Software design – Design process – Design concepts – Coupling – Cohesion – Functional independence – Design patterns – Model-view-controller – Publish-subscribe – Adapter – Command – Strategy – Observer – Proxy – Facade - User interface design.
 
 {{{unit}}}
-|Unit III|DevOps |9| 
-DevOps: introduction -- Cloud as a platform -- Operations; Deployment
-Pipeline: Overall architecture -- Building and testing -- Deployment;
-Cross Cutting Concerns: Monitoring -- Security and security audits.
+|Unit III| Software Testing |9| 
+Testing – Unit testing – Black box testing– White box testing – Integration and System testing– Regression testing – Debugging - Program analysis – Symbolic execution – Model Checking. 
 
 {{{unit}}}
-|Unit IV|Embedded Software Development|9|
-Embedded Software Development Process: System engineering process --
-Software engineering process -- Safety engineering process; Designing
-the process phases of the development project; Planning the
-development project management.
+|Unit IV|Agile Software Development|9|
+Introduction to Agile Methodology – Evolution of Agile – Self adaption: Growing and Reflection – Pair Programming – Agile methods - collaboration – Releasing – Planning - Development
 
 {{{unit}}}
-|Unit V| Software Quality Assurance and Testing |9| 
-Software Quality: Achieving software quality -- Six sigma -- ISO
-standards; Software configuration management -- The SCM process; Test
-strategies for conventional software -- Test strategies for webApps --
-Validation testing -- System testing -- Testing web applications:
-Testing concepts for webApps -- Content testing -- User interface
-testing -- Component level testing -- Navigation testing --
-Configuration testing -- Security testing -- Performance testing.
+|Unit V| DevOps	|9| 
+DevOps: Motivation-Cloud as a platform - Operations- Deployment Pipeline: Overall Architecture - Building and Testing - Deployment -Crosscutting Concerns:Monitoring - Security Audits Deployment- Case study: Migrating to Microservices
+
+
 
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of this course, students will be able to:�
-- Understand software engineering life cycle model and apply secure
-  software requirements and design (K3).
-- Understand software quality assurance techniques (K2).
-- Understand, comprehend and apply Agile development technology (K3).
-- Understand the advantages of DevOps practices and embedded software
-  development process (K2).
-- Comprehend and apply software testing strategies (K3).
+After the completion of this course, students will be able to: 
+- Understand software requirement specification and model software system using UML diagrams  (K3)
+- Apply formal models to capture requirements
+- Apply appropriate architectural styles and design patterns (K3).
+- Apply various testing techniques(K3).
+- Understand Agile software development methodology
+- Understand the benefits of DevOps practices(K2).
+
       
 # The second and fourth references are unclear.
 ** References
-1. Roger S. Pressman, ``Software Engineering: A practitioner's approach'',
-   Seventh edition, McGraw-Hill publication, 2010. (Units I,V)
-2. ``A Guide to the Scrum Body of Knowledge (SBOK Guide)'', 2016
-   edition, SCRUMstudy, Phoenix, Arizona 85008 USA (Unit II)
-3. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
-   Architect's Perspective'', Pearson Education, 2016 (Unit III)
-4. ``Embedded System development Process Reference guide'', SEC books,
-   IPA, Ver.2.0, 2007. (Unit IV)
+1.	Rajib Mall, Fundamentals of Software Engineering, 3rd edition, PHI Learning Pvt. Ltd., 2009.(Unit 1, 2 & 3)
+2.	Carlo Ghezzi, Mehdi Jazayeri, Dino Mandrioli, Fundamentals of Software Engineering, 2nd edition, PHI Learning Pvt. Ltd., 2010. (Unit 1 & 3)
+3. Mary Shaw, David Garlan, Software Architecture: Perspectives on an emerging discipline, Pearson Education, 1996. (Unit 2)
+4. Craig Larman, Applying UML and Patterns, 3rd ed, Pearson Education, 2005. (Unit 1, 2 & 3)
+5. Alistair Cockburn, Jim Highsmith, “Agile Software Development- The Cooperative Game”, Second edition, Pearson Education, 2007.
+6. James Shore, Shane Warden, “The Art of Agile Development”, O’Reilly, Shroff Publishers 2011. (Unit IV)
+7. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software Architect's Perspective'', Pearson Education, 2016 (Unit V)
+
  
 
