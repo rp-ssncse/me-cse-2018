@@ -17,27 +17,27 @@
   professional life.
 
 {{{unit}}}
-|Unit I |HUMAN VALUES	|2| 
+|Unit I |Human Values	|2| 
 Morals, Values and Ethics – Integrity – Work Ethic – Honesty – Courage
 –Empathy – Self-Confidence – Character
 
 {{{unit}}}
-|Unit II|ENGINEERING ETHICS|4| 
+|Unit II|Engineering Ethics|4| 
 Responsibility in Engineering, Analysing interior and exterior
 intensions, Moral judgements and responsibility
 
 {{{unit}}}
-|Unit III|Social and value dimensions in Technology|3| 
+|Unit III|Social and Value Dimensions in Technology|3| 
 Privacy and social policy, ethical issues in design, Approaches to
 risk, case studies
 
 {{{unit}}}
-|Unit IV|Engineers in organizations|3| 
+|Unit IV|Engineers in Organizations|3| 
 Organizational culture, Clean environment, Fairness: person to person
 and social
 
 {{{unit}}}
-|Unit V|Best practices |3|
+|Unit V|Best Practices |3|
 Moral behaviour, Best practices in engineering, Case studies
 
 \hfill *Total: 15*
