@@ -1,4 +1,4 @@
-* CP1105 MACHINE LEARNING 
+* <<<CP1105>>> MACHINE LEARNING 
 :properties:
 :author: S Rajalakshmi, B Senthil Kumar
 :date: 5 July 2018

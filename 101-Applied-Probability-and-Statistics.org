@@ -1,4 +1,4 @@
-* CP1101 APPLIED PROBABILITY AND STATISTICS
+* <<<CP1101>>> APPLIED PROBABILITY AND STATISTICS
 :properties:
 :author: S Narasimman, P Venugopal
 :date: 28 June 2018

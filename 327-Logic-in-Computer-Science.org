@@ -1,4 +1,4 @@
-* CP1327 LOGIC IN COMPUTER SCIENCE
+* <<<CP1327>>> LOGIC IN COMPUTER SCIENCE
 :properties:
 :author: S Sheerazuddin
 :date: 11 July 2018
