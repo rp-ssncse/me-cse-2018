@@ -59,7 +59,7 @@ Case study: Migrating to Microservices.
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of this course, students will be able to: 
+After the completion of this course, students will be able to:
 - Understand software requirement specification and model software system using UML diagrams  (K3)
 - Apply formal models to capture requirements
 - Apply appropriate architectural styles and design patterns (K3).

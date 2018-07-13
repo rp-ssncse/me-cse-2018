@@ -78,5 +78,5 @@ After the completion of this course, students will be able to:
    PHI, 2006.
 3. Rafael C.Gonzalez, Richard E.Woods, Eddins, ``Digital Image
    Processing Using MATLAB'', Second Edition, Tata McGraw-Hill, 2009.
-4. Davis, E. R. ``Machine Vision'' Second Edition. (1997).
+4. Davis, E. R. ``Machine Vision'' Second Edition, 1997.
 
