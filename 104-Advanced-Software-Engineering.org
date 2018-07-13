@@ -1,4 +1,4 @@
-* CP1104 ADVANCED SOFTWARE ENGINEERING
+* <<<CP1104>>> ADVANCED SOFTWARE ENGINEERING
 :properties:
 :author: Chitra Babu
 :date: 13 July 2018
@@ -55,13 +55,21 @@ After the completion of this course, students will be able to: 
       
 # The second and fourth references are unclear.
 ** References
-1.	Rajib Mall, Fundamentals of Software Engineering, 3rd edition, PHI Learning Pvt. Ltd., 2009.(Unit 1, 2 & 3)
-2.	Carlo Ghezzi, Mehdi Jazayeri, Dino Mandrioli, Fundamentals of Software Engineering, 2nd edition, PHI Learning Pvt. Ltd., 2010. (Unit 1 & 3)
-3. Mary Shaw, David Garlan, Software Architecture: Perspectives on an emerging discipline, Pearson Education, 1996. (Unit 2)
-4. Craig Larman, Applying UML and Patterns, 3rd ed, Pearson Education, 2005. (Unit 1, 2 & 3)
-5. Alistair Cockburn, Jim Highsmith, “Agile Software Development- The Cooperative Game”, Second edition, Pearson Education, 2007.
-6. James Shore, Shane Warden, “The Art of Agile Development”, O’Reilly, Shroff Publishers 2011. (Unit IV)
-7. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software Architect's Perspective'', Pearson Education, 2016 (Unit V)
+1. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition,
+   PHI Learning Pvt Ltd, 2009 (Unit I, II & III)
+2. Carlo Ghezzi, Mehdi Jazayeri, Dino Mandrioli, ``Fundamentals of
+   Software Engineering'', 2nd edition, PHI Learning
+   Pvt Ltd, 2010 (Unit I & III)
+3. Mary Shaw, David Garlan, ``Software Architecture: Perspectives on
+   an Emerging Discipline'', Pearson Education, 1996 (Unit II)
+4. Craig Larman, ``Applying UML and Patterns'', 3rd edition, Pearson
+   Education, 2005 (Unit I, II & III)
+5. Alistair Cockburn, Jim Highsmith, ``Agile Software Development --
+   The Cooperative Game'', Second edition, Pearson Education, 2007
+6. James Shore, Shane Warden, ``The Art of Agile Development'',
+   O'Reilly, Shroff Publishers 2011 (Unit IV)
+7. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
+   Architect's Perspective'', Pearson Education, 2016 (Unit V)
 
  
 
