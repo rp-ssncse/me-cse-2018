@@ -36,7 +36,7 @@ Logical design using Python -- IoT Physical devices and Endpoints: Basic buildin
 
 
 {{{unit}}}
-| Unit V | Case Studeies and Real World Applications | 6 |
+| Unit V | Case Studies and Real World Applications | 6 |
 Home Automation -- Weather monitoring  -- Smart irrigation -- Data Analytics for IoT -- Software & Management Tools for IoT Cloud Storage Models & Communication APIs -- Cloud for IoT 
 
 
