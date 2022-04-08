@@ -74,7 +74,7 @@ After the completion of this course, students will be able to:
 - Develop applications using Hadoop related tools and R Programming   (K4).
 - Use database frameworks like MongoDB, Hive and Hbase for data analysis (K3).
 
-** Course Outcomes Updated
+** Course Outcomes (Batch 2021-2023)
 After the completion of this course, students will be able to: 
 - Explain how to leverage the insights from big data analytics (K2). 
 - Solve applications using statistical and data analytic methods (K3). 
