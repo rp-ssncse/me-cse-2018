@@ -6,6 +6,16 @@
 
 #+startup: showall
 
+   ** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |    
+| CO2            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |  
+| CO3            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |    
+| Total          |    |  9 |  6  |  6  |     |     |     |     |     |     |      |      |   
+| Course Mapping |    |  3 |  2  |  2  |     |     |     |     |     |     |      |      |  
+
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
@@ -92,6 +102,13 @@ After the completion of this course, students will be able to:
 - Create website using HTML and CSS (K3)
 - Develop web application using java script based framework (K3)
 - Develop web applications using Python based framework (K3)
+
+** Course Outcomes Updated (
+After the completion of this course, students will be able to:
+- Create a website using HTML and CSS (K3). 
+- Develop web applications using the javascript-based framework (K3).
+- Develop web applications using a Python-based framework (K3).
+
 \begin{comment}
 - Create website using HTML and CSS (K3)
 - Write programs using python (K3)
