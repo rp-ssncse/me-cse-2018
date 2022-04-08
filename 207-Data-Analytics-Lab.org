@@ -56,7 +56,7 @@ After the completion of this course, students will be able to:
 - Examine data analysis with machine learning methods (K4).
 - Analyze data using visualization techniques (K4).
 
-** Course Outcomes Updated
+** Course Outcomes (Batch 2021-2023)
 After the completion of this course, students will be able to: 
 - Process big data using Hadoop framework (K3).
 - Build and apply linear and logistic regression models (K3) 
