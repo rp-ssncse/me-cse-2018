@@ -1,6 +1,6 @@
 * <<<PCP1197>>> ADVANCED DATA STRUCTURES AND ALGORITHMS LAB
 :properties:
-:author: S Kavitha, B Bharathi
+:author: S Kavitha, B Bharathi, R. Kanchana, R.S. Milton
 :date: 28 June 2018
 :end:
 
@@ -44,3 +44,13 @@ After the completion of this course, students will be able to:
 - Design and develop efficient algorithms for problems, using algorithm
   design techniques (K3).
 
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    |  K3 |  K6 |  K6 |  K6 |  K6 |     |     |     |     |      |      | 
+| CO1            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |
+| CO2            | K3 |   3 |   2 |   2 |     |     |     |     |     |     |      |      |
+| CO3            | K3 |   3 |   2 |   2 |     |     |     |     |     |     |      |      |
+| CO4            | K3 |   3 |   2 |   2 |     |     |     |     |     |     |      |      |
+| CO5            | K2 |   2 |     |     |     |     |     |     |     |     |      |      |
+| Score          |    |  14 |   8 |   6 |     |     |     |     |     |     |      |      |
+| Course Mapping |    |   3 |   2 |   2 |     |     |     |     |     |     |      |      |
