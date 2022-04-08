@@ -40,7 +40,7 @@ After the completion of this course, students will be able to:
 - Adapt to new technologies to solve the given problem (K4),
 - Solve problems using software engineering principles (K3).
 
-** Course Outcomes Updated
+** Course Outcomes (Batch 2021-2023)
 After the completion of this course, students will be able to: 
 - Analyze the problem and design a solution (K4)
 - Analyse and adopt new technologies for solving a given problem (K4)
