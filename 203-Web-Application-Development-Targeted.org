@@ -109,12 +109,6 @@ After the completion of this course, students will be able to:
 - Develop web applications using the javascript-based framework (K3).
 - Develop web applications using a Python-based framework (K6). 
 
-\begin{comment}
-- Create website using HTML and CSS (K3)
-- Write programs using python (K3)
-- Develop web applications using Python based framework (K3)
-\end{comment}
-
 ** References
 1. Jeffrey C Jackson, ``Web Technologies A Computer Science
    Perspective'', Pearson Education, 2011. (unit I)
