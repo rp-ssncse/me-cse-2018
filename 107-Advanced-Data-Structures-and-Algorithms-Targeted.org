@@ -39,8 +39,16 @@
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Implement basic data structures and sorting algorithms (K4).
+- Implement basic data structures and sorting algorithms (K3).
 - Implement algorithms using tree and graph structures (K3).
 - Design and develop efficient algorithms for problems, using algorithm
-  design techniques (K3).
+  design techniques (K4).
 
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    |  K3 |  K6 |  K6 |  K6 |  K6 |     |     |     |     |      |      | 
+| CO1            | K3 |   3 |   2 |   2 |  2  |     |   3 |     |     |     |      |      |
+| CO2            | K3 |   3 |   2 |   2 |  2  |     |    3|     |     |     |      |      |
+| CO3            | K3 |   3 |   2 |   2 |  2  |     |    3|     |     |     |      |      |
+| Score          |    |  9  |   6 |   6 |  6  |     |    9|     |     |     |      |      |
+| Course Mapping |    |   3 |   2 |   2 |  2  |     |    3|     |     |     |      |      |
