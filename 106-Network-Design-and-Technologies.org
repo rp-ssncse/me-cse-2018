@@ -17,6 +17,26 @@
 - To understand the paradigm of software defined networks.
 - To design networks using simulator.
 
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Identify the components required for designing a network (K2).
+- Design a network using different wireless networking technologies (K3).
+- Analyze the various protocols of 3G, 4G and cellular networks (K3).
+- Identify the use of software defined networks (K3).
+- Design and experiment various networks using simulator (K4).
+
+** Course Outcomes (Batch 2021-2023)
+
+After the completion of this course, students will be able to:
+- Outline the components required for designing a network (K2).
+- Develop a network using different wireless networking technologies (K3).
+- Experiment with various protocols of 3G, 4G and cellular networks (K3).
+- Make use of software defined networks (K3).
+- Analyze various networks using a simulator (K4).
+
+
+
+
 {{{unit}}}
 | Unit I | Network Design | 6 |
 OSI Model -- Review of Protocols -- LAN cabling 
@@ -62,13 +82,6 @@ framework.
 
 \hfill *Total: 60*
 
-** Course Outcomes
-After the completion of this course, students will be able to: 
-- Identify the components required for designing a network (K2).
-- Design a network using different wireless networking technologies (K3).
-- Analyze the various protocols of 3G, 4G and cellular networks (K3).
-- Identify the use of software defined networks (K3).
-- Design and experiment various networks using simulator (K4).
   
 ** References
 1. Larry Peterson and Bruce Davie, ``Computer Networks: A Systems
