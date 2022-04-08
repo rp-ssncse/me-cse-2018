@@ -1,6 +1,6 @@
 * <<<PCP1176>>> ADVANCED DATA STRUCTURES AND ALGORITHMS
 :properties:
-:author: S Kavitha, B Bharathi
+:author: S Kavitha, B Bharathi, R. Kanchana, R.S. Milton
 :date: 29 June 2018
 :end:
 
@@ -59,11 +59,12 @@ NP-Completeness -- 3-Coloring -- Bipartite Matching.
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Analyse the complexity of algorithms (K3).
-- Compare and choose suitable data structures to solve computing problems (K4).
-- Develop optimal algorithms using tree and graph data structures (K3).
-- Apply suitable design techniques for problem solving (K4).
-- Identify NP type problems (K2).
+- Apply asymptotic notations and methods to find the time complexity of linear and recursive algorithms. (K3)
+- Develop optimal algorithms using tree data structures (K3)
+- Develop optimal algorithms using graph data structures. (K3) 
+- Solve problems using suitable design techniques (K4) 
+- Identify NP type problems. (K2) 
+
       
 ** References
 1. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford
@@ -77,3 +78,13 @@ After the completion of this course, students will be able to:
    Pearson Education, 2012
 5. S. Sridhar, ``Design and Analysis of Algorithms'', First Edition,
    Oxford University Press, 2014
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    |  K3 |  K6 |  K6 |  K6 |  K6 |     |     |     |     |      |      | 
+| CO1            | K3 |   3 |   2 |     |     |     |     |     |     |     |      |      |
+| CO2            | K3 |   3 |   2 |   2 |     |     |     |     |     |     |      |      |
+| CO3            | K3 |   3 |   2 |   2 |     |     |     |     |     |     |      |      |
+| CO4            | K4 |   3 |   2 |   2 |     |     |     |     |     |     |      |   2  |
+| CO5            | K2 |   2 |     |     |     |     |     |     |     |     |      |      |
+| Score          |    |  14 |   8 |   7 |     |     |     |     |     |     |      |   2  |
+| Course Mapping |    |   3 |   2 |   2 |     |     |     |     |     |     |      |   2  |
