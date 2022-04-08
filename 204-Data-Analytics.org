@@ -6,6 +6,17 @@
 
 #+startup: showall
 
+   ** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K2 |  2 |  1  |  1  |     |     |     |     |     |     |      |      |    
+| CO2            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |  
+| CO3            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |    
+| CO4            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+| CO5            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+| Total          |    | 14 |  9  |  9  |  6  |  6  |     |     |     |     |      |      |   
+| Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |     
 {{{credits}}}
 |L|T|P|C|
 |3|0|0|3|
@@ -57,15 +68,20 @@ HiveQL queries.
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand how to leverage the insights from big data analytics
-  (K2).
+- Understand how to leverage the insights from big data analytics   (K2).
 - Solve applications using statistical and data analytic methods (K3).
 - Perform analytics using streaming data (K3).
-- Develop applications using Hadoop related tools and R Programming
-  (K4).
-- Use database frameworks like MongoDB, Hive and Hbase for data
-  analysis (K3).
-      
+- Develop applications using Hadoop related tools and R Programming   (K4).
+- Use database frameworks like MongoDB, Hive and Hbase for data analysis (K3).
+
+** Course Outcomes Updated
+After the completion of this course, students will be able to: 
+- Explain how to leverage the insights from big data analytics (K2). 
+- Solve applications using statistical and data analytic methods (K3). 
+- Develop analytics using streaming data (K3). 
+- Develop applications using Hadoop-related tools and R Programming (K3). 
+- Develop databases using MongoDB, Hive, and HBase for data analysis (K3).
+
 ** References
 1. Bill Franks, ``Taming the Big Data Tidal Wave: Finding
    Opportunities in Huge Data Streams with Advanced Analytics'', John
@@ -87,16 +103,6 @@ After the completion of this course, students will be able to:
 9. Kristina Chodorow, ``MongoDB: The Definitive Guide -- Powerful and
    Scalable Data Storage'', 2nd Edition, O'Reilly, 2013.
    
-   ** CO PO MAPPING 
-#+NAME: co-po-mapping
-|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
-|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
-| CO1            | K2 |  2 |  1  |  1  |     |     |     |     |     |     |      |      |    
-| CO2            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |  
-| CO3            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |    
-| CO4            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
-| CO5            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
-| Total          |    | 14 |  9  |  9  |  6  |  6  |     |     |     |     |      |      |   
-| Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |     
+
    
 
