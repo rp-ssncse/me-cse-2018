@@ -103,7 +103,7 @@ After the completion of this course, students will be able to:
 - Develop web application using java script based framework (K3)
 - Develop web applications using Python based framework (K3)
 
-** Course Outcomes Updated
+** Course Outcomes (Batch 2021-2023)
 After the completion of this course, students will be able to:
 - Create a website using HTML and CSS (K3). 
 - Develop web applications using the javascript-based framework (K3).
