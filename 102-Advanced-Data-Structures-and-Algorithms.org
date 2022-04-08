@@ -59,13 +59,6 @@ NP-Completeness -- 3-Coloring -- Bipartite Matching.
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Analyse the complexity of algorithms (K3).
-- Compare and choose suitable data structures to solve computing problems (K4).
-- Develop optimal algorithms using tree and graph data structures (K3).
-- Apply suitable design techniques for problem solving (K4).
-- Identify NP type problems (K2).
-
-** Course Outcomes (2021-2023)
 - Apply asymptotic notations and methods to find the time complexity of iterative and recursive algorithms. (K3)
 - Develop optimal algorithms using tree data structures (K3)
 - Develop optimal algorithms using graph data structures. (K3) 
