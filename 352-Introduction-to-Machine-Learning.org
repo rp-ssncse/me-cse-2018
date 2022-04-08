@@ -64,7 +64,16 @@ Mind -- Metrics for Binary Classification -- Metrics for Multiclass
 Classification -- Regression Metrics -- Using Evaluation Metrics in
 Model Selection.
 
-\hfill *Total: 45*
+** Suggestive Experiments (Python - Numpy, Scikit-learn, Matplotlib)
+1. Perceptron and Linear Regression
+2. Multi-layer Perceptron
+3. Support Vector Machine
+4. Decision Tree algorithm
+5. k-Nearest Neighbor algorithm
+6. K-means clustering
+
+
+\hfill *Total: 60*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:

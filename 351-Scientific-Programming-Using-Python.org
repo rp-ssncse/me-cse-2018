@@ -75,7 +75,48 @@ Logistic growth.
 Object-Oriented Programming: Inheritance -- Superclass for defining an
 interface -- Class hierarchies;
 #+END_COMMENT
-\hfill *Total:45*
+
+** Suggested Experiments
+1. Given the list L find the min, max and median value. Create a list
+   with only the elements at even indexes and re-compute min, max and
+   median values.
+2. Write a script to build a new list containing the square roots of
+   all the numbers in the given list.  Implement it with list
+   comprehension.
+3. Consider the matrix M and the vector v. What is the matrix-vector
+   product M∗v and square of M?
+4. Write a function sin(M) that computes it with sin series.
+5. Write a function to find the matrix rank by computing the number of
+   numerical non-zero singular values.
+6. Write a program that counts the number of lines and words in a
+   file, printing the resulting counts to the terminal.
+7. Write a method =simplify= for the class RationalNumber. This method
+   should return the simplified fraction as a tuple.
+8. Write a program to count the characters in a string and store it as
+   a dictionary, using the characters as the keys and the counts as values.
+9. Create a string containing at least five words and store it in a
+   variable.
+   1) Convert the string to a list of words using the split
+      method.
+   2) Sort the list into reverse alphabetical order using some of the
+      list methods.
+10. Define a class called Rectangle with width and height as
+    attributes.  Create a member attribute corner which itself is an
+    object of another class Point with x and y as attributes. Add an
+    equals method to the Rectangle class and perform a deep equality
+    check. Add a method called move to Rectangle class to perform a
+    translation.
+11. Write a program to randomly generate a list with 5 numbers, which
+    are divisible by 5 and 7 , between 1 and 1000 inclusive. Use
+    random.sample() to generate a list of random values.
+12. Solve the ODE problem: u'= 2u − 1, u(0) = 2, t \in [0, 6] using
+    the Forward Euler method. Choose \delta t = 0.25. Plot the
+    numerical solution together with the exact solution u(t) = 1/2 +
+    3/2 e^{2t}.
+13. Write a program for Taylor series for e^x with n terms for various
+    values of h and print the error of the approximations.
+
+\hfill *Total:60*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

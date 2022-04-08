@@ -1,4 +1,4 @@
-* <<<CP1105>>> MACHINE LEARNING 
+* <<<PCP1178>>> MACHINE LEARNING 
 :properties:
 :author: S Rajalakshmi, B Senthil Kumar
 :date: 5 July 2018
@@ -77,8 +77,6 @@ Markov Random Fields -- Hidden markov models
 (Markov Random Fields – Tracking Methods) are removed.
 \end{comment}
 
-\hfill *Total: 45*
-
 ** Suggestive Experiments (Python - Numpy, Scipy, Scikit-learn, Matplotlib)
 1. Perceptron and Linear Regression
 2. Multi-layer Perceptron
@@ -88,6 +86,8 @@ Markov Random Fields -- Hidden markov models
 6. K-means clustering
 7. Random Forest and AdaBoost ensemble techniques
 8. Dimensionality reduction techniques : LDA, PCA
+
+\hfill *Total: 75*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

@@ -1,4 +1,4 @@
-* <<<CP1101>>> APPLIED PROBABILITY AND STATISTICS
+* <<<PMA1177>>> APPLIED PROBABILITY AND STATISTICS
 :properties:
 :author: S Narasimman, P Venugopal
 :date: 28 June 2018
@@ -55,16 +55,16 @@ standardized variables
 After the completion of this course, students will be able to
  demonstrate competency in:
 - Basic probability axioms and rules and the moments of discrete and
-  continuous random variables.
+  continuous random variables (K3).
 - Consistency, efficiency and unbiasedness of estimators, method of
-  maximum likelihood estimation and Central Limit Theorem.
-- Use statistical tests in testing hypotheses on data.
+  maximum likelihood estimation and Central Limit Theorem (K3).
+- Use statistical tests in testing hypotheses on data (K3).
 - Perform exploratory analysis of multivariate data, such as
   multivariate normal density, calculating descriptive statistics,
-  testing for multivariate normality.
+  testing for multivariate normality (K3).
 - Use of the appropriate and relevant, fundamental and applied
   mathematical and statistical knowledge, methodologies and modern
-  computational tools.
+  computational tools (K3).
 
 ** References
    1. Devore J. L., ``Probability and Statistics for Engineering and

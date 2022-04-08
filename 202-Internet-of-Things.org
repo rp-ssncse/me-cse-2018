@@ -40,8 +40,6 @@ Logical design using Python -- IoT Physical devices and Endpoints: Basic buildin
 Home Automation -- Weather monitoring  -- Smart irrigation -- Data Analytics for IoT -- Software & Management Tools for IoT Cloud Storage Models & Communication APIs -- Cloud for IoT 
 
 
-\hfill *Total: 30*
-
 ** Suggestive Exercises (using Arduino / Raspberry Pi Board)
 1. Study of Arduino and Raspberry Pi Board
 2. LED blinking and fading 
@@ -59,7 +57,7 @@ Home Automation -- Weather monitoring  -- Smart irrigation -- Data Analytics for
     cloud platform (Examples: Basic home automation, Weather
     monitoring)
 
-\hfill *Total: 30*
+\hfill *Total: 60*
 
 ** Course Outcomes
 After completion of this course, students should be able to:

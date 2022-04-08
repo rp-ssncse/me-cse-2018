@@ -1,4 +1,4 @@
-* <<<CP1106>>> NETWORK DESIGN AND TECHNOLOGIES 
+* <<<PCP1102>>> NETWORK DESIGN AND TECHNOLOGIES 
 :properties:
 :author: S. V. Jansi Rani
 :date: 12 July 2018
@@ -49,8 +49,6 @@ Introduction -- Centralized and distributed control and data planes --
 Open flow -- Wire protocol -- Architecture -- SDN controller
 framework.
 
-\hfill *Total: 30*
-
 ** Suggestive Exercises
 1. Establishing LAN
 2. Creation of Virtual LAN
@@ -62,7 +60,7 @@ framework.
 8. Simulation of interdomain redistribution of RIP- OSPF
 9. Creation of Access Control List in the server firewall
 
-\hfill *Total: 30*
+\hfill *Total: 60*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

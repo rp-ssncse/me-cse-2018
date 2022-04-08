@@ -1,4 +1,4 @@
-* CP1203 WEB APPLICATION DEVELOPMENT
+* <<<CP1203>>> WEB APPLICATION DEVELOPMENT
 :properties:
 :author: B Prabavathy, V S Felix Enigo
 :date: 29 June 2018										
@@ -39,7 +39,7 @@ style.
 
 # Why study two server-side frameworks, NodeJS and Django? One will do.
 \begin{comment}
-Sir, Rationale behind the syllabus is as follows
+Sir, Rationale behind the syllabus is as follows:
 First 2 units will cover an introduction to web application development followed by the concepts of client side scripting 
 Since the students have to study python framework in units 4  and 5, we thought it would be better to refresh python in 3rd unit as he might have done that course only during his 1st sem in UG curriculum
 \end{comment}
@@ -77,6 +77,7 @@ Syndication -- Generating downloadable files -- Enhancing Django’s ORM
 
 \hfill *Total: 45*
 
+\begin{comment}
 ** Suggested Mini-projects
 1. Create a college website using HTML5 and CSS3
 2. Develop a MVC based web application for a Super Market Billing
@@ -84,14 +85,6 @@ Syndication -- Generating downloadable files -- Enhancing Django’s ORM
 3. Develop online exam web application using AngularJS
 4. Develop Library Management System using MVC Django Architecture
 5. Develop Inventory Management System using Django Framework
-\begin{comment}
-1. Create a college website using HTML5 and CSS3
-2. Develop a MVC based web application for a Super Market Billing
-   System. Use cookies as part of the web application
-3. Develop Library Management System using MVC Django Architecture
-4. Develop Inventory Management System using Django Framework
-5. Develop a MVC based web application for Railway Reservation System
-   using Django Framework
 \end{comment}
 
 ** Course Outcomes:
@@ -114,11 +107,3 @@ After the completion of this course, students will be able to:
    Media, 2013. (unit III)
 4. Jeff forcier, Paul bissex and Wesley chun, ``Python web development
    with Django'', Addison-Wesley Professional, 2008. (unit IV, V)
-\begin{comment}
-1. Jeffrey C Jackson, ``Web Technologies A Computer Science
-   Perspective'', Pearson Education, 2011. (unit I)
-2. Deitel and Deitel and Nieto, ``Internet and World Wide Web - How to Program'', Prentice Hall, 5th Edition, 2011. (unit II)
-3. Allen B Downey, ``Think python: How to think like a computer scientist'', Second Edition, Updated for Python3 Shroff/O'Reilly publishers, 2016. (unit III)
-4. Jeff forcier, Paul bissex and Wesley chun, ``Python web development
-   with Django'', Addison-Wesley Professional, 2008. (unit IV, V)
-\end{comment}

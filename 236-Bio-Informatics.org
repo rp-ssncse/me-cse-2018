@@ -68,8 +68,11 @@ After the completion of this course, students will be able to:
 ** References
 1. Ion Mandoiu and Alexander Zelikovsky , ``Computational Methods for
    Next Generation Sequencing Data Analysis'', Wiley series 2016.
-2. Istvan Miklos,Renyi Institutue, ``Introduction to algorithms in
+2. Istvan Miklos, Renyi Institutue, ``Introduction to algorithms in
    bioinformatics'', Springer 2016
 3. Philip Compeau and Pavel pevzner, ``Bioinformatics Algorithms: An
-   Active Learning Approach'', Second edition volume I,  Cousera, 2015.
-4. Supratim Choudhuri, ``Bioinformatics For Beginners'', Elsevier, 2014.
+   Active Learning Approach'', Second edition volume I, Cousera, 2015.
+4. Supratim Choudhuri, ``Bioinformatics For Beginners'',
+   Elsevier, 2014.
+5. Jin Xiong, ``Essential Bioinformatics'', Cambridge University
+   Press, 2007

@@ -6,7 +6,9 @@
 
 #+startup: showall
 
-# in the title of the subject, architectures (plural) or architecture (singular)?
+# in the title of the subject, architectures (plural) or architecture
+# (singular)?
+
 {{{credits}}}
 |L|T|P|C|
 |3|0|0|3|

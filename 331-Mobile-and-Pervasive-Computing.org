@@ -1,14 +1,15 @@
-* <<<CP1331>>> MOBILE AND PERVASIVE COMPUTING  
 :properties:
 :author: V. S. Felix Enigo, A. Beulah
 :date: 27 June 2018
 :end:
 
 #+startup: showall
+#+macro: subject |Course Code| Course Title |Category | L | T | P | C |
+#+macro: unit #+attr_odt: :rel-width 100 :width 1,10,2
+#+macro: credits #+attr_odt: :rel-width 10 :center nil
 
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
+{{{subject}}}
+| <<<CP1331>>> | MOBILE AND PERVASIVE COMPUTING | PE | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
 - To learn the basic mobile concepts. 
@@ -19,19 +20,21 @@
 
 {{{unit}}}
 |Unit I |Introduction|9| 		
-History; Telecommunications: GSM -- GPRS -- DECT --  TETRA -- UMTS and IMT- 2000 ; Wireless LAN: WiFi, Bluetooth, WiMAX, Wireless ATM.
+History; Telecommunications: GSM -- GPRS -- DECT -- TETRA -- UMTS and
+IMT- 2000 ; Wireless LAN: WiFi, Bluetooth, WiMAX, Wireless ATM.
 
 {{{unit}}}
 |Unit II|Overview of a Modern 4G Telecommunications System  |9| 
-Introduction -- LTE-A System Architecture:  LTE RAN -- OFDM Air Interface -- Evolved Packet Core -- LTE Requirements -- LTE-Advanced -- Enhancements in LTE-A; Introduction to 5G.
-
+Introduction -- LTE-A System Architecture: LTE RAN -- OFDM Air
+Interface -- Evolved Packet Core -- LTE Requirements -- LTE-Advanced
+-- Enhancements in LTE-A; Introduction to 5G.
 
 {{{unit}}}
 |Unit III|Pervasive Computing Concepts and Elements |9| 
 Perspectives of Pervasive Computing -- Challenges -- Technology --
 Infrastructure and Devices -- Middleware for Pervasive Computing
 Systems -- Pervasive Computing Environments -- Context Collection and
-Wireless Sensor Networks -- User Tracking -- Context Reasoning 
+Wireless Sensor Networks -- User Tracking -- Context Reasoning
 
 {{{unit}}}
 |Unit IV|Human Computer Interface in Pervasive Environments |9| 
@@ -54,21 +57,26 @@ Management -- Formal Transaction Verification
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- Understand the Basic architecture and concepts of Mobile Computing (K2)
+- Understand the Basic architecture and concepts of Mobile Computing
+  (K2)
 - Understand the 4G Telecommunication System Principles (K2) 
-- Understand the basis of pervasive computing.(K2)
-- Apply HCI in Pervasive environment. (K3)
-- Model pervasive computing problems in mobile environment. (K3)
+- Understand the basis of pervasive computing (K2)
+- Apply HCI in Pervasive environment (K3)
+- Model pervasive computing problems in mobile environment (K3).
       
 ** References
-1. J. Schiller, ``Mobile Communications'', Addison Wesley, 2000.(Unit I)
-
-2. Minyi Guo, Jingyu Zhou, Feilong Tang, Yao Shen, ``Pervasive Computing: Concepts, Technologies and Applications '' CRC Press, 2016 (Unit III, IV, V)
-
-3. Juha Korhonen, ``Introduction to 4G Mobile Communications'' , Artech House Publishers, 2014(Unit II)
-
-4. Kolomvatsos, Kostas, ``Intelligent Technologies and Techniques for Pervasive Computing'', IGI Global, 2013.
-
-5. M. Bala Krishna, Jaime Lloret Mauri, ``Advances in Mobile Computing and Communications: Perspectives and Emerging Trends in 5G Networks'', CRC 2016
-
-6. Alan Colman, Jun Han, and Muhammad Ashad Kabir, ``Pervasive Social Computing Socially-Aware Pervasive Systems and Mobile Applications'', Springer, 2016.
+1. J. Schiller, ``Mobile Communications'', Addison Wesley, 2000.(Unit
+   I)
+2. Minyi Guo, Jingyu Zhou, Feilong Tang, Yao Shen, ``Pervasive
+   Computing: Concepts, Technologies and Applications '' CRC Press,
+   2016 (Unit III, IV, V)
+3. Juha Korhonen, ``Introduction to 4G Mobile Communications'' ,
+   Artech House Publishers, 2014(Unit II)
+4. Kolomvatsos, Kostas, ``Intelligent Technologies and Techniques for
+   Pervasive Computing'', IGI Global, 2013.
+5. M. Bala Krishna, Jaime Lloret Mauri, ``Advances in Mobile Computing
+   and Communications: Perspectives and Emerging Trends in 5G
+   Networks'', CRC 2016
+6. Alan Colman, Jun Han, and Muhammad Ashad Kabir, ``Pervasive Social
+   Computing Socially-Aware Pervasive Systems and Mobile
+   Applications'', Springer, 2016.

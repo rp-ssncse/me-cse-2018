@@ -53,14 +53,14 @@ The Nature of the design Problem -- Interface Design --
 Implementation-- Performance -- Project Management -- Trends in
 Operating System Design
 
-\hfill *Total: 45*
-
 ** Suggestive Exercises
 1. Installation of Vmware hypervisor
 2. Performing Migratations between VMs 
 3. Implementation of Rata Monotonic Algorithm
 4. Implementation of Cyclic Scheduler
 5. Implemetation of Priotity Ceiling Protocol
+
+\hfill *Total: 75*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

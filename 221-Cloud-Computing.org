@@ -18,7 +18,7 @@
 - To learn about the security issues in the cloud environment. 
 
 {{{unit}}}
-|Unit I|Cloud Architecture Models and Infrastructure|9| 
+| Unit I | Cloud Architecture Models and Infrastructure | 9 |
 Cloud Architecture: System Models for Distributed and Cloud Computing
 -- NIST Cloud Computing Reference Architecture -- Cloud deployment
 models -- Cloud service models; Cloud Infrastructure: Architectural
@@ -30,7 +30,7 @@ Cloud Resources.
 
 
 {{{unit}}}
-|Unit II |Virtualization|9| 
+| Unit II | Virtualization | 9 |
 Basics of Virtualization -- Emulation -- Interpretation -- Binary
 Translation -- Virtualization Advantages -- Virtual Machine Basics --
 Taxonomy of Virtual Machines -- Process Virtual Machines -- System
@@ -41,7 +41,7 @@ Virtulization.
 #+latex: % Unit I is from the course Virtualization IF7020, Anna University. M.Tech IT- R2015 (NS)
 
 {{{unit}}}
-|Unit III|Virtualization Infrastructure|9| 
+| Unit III | Virtualization Infrastructure | 9 |
 Comprehensive Analysis -- Resource Pool -- Testing Environment --
 Virtual Workloads -- Provision Virtual Machines -- Desktop
 Virtualization -- Network Virtualization -- Server and Machine
@@ -52,7 +52,7 @@ Virtual Machine Monitors: KVM, Xen, VMWareESXi server.
 #+latex: % Unit II is from the course Virtualization IF7020, Anna University. M.Tech IT- R2015 (YVL)
 
 {{{unit}}}
-|Unit IV| Cloud Deployment Environment|9|
+| Unit IV | Cloud Deployment Environment | 9 |
 Google App Engine -- Amazon AWS -- Microsoft Azure; Cloud Software
 Environments -- Eucalyptus -- OpenStack -- OpenNebula -- Aneka --
 CloudSim.
@@ -62,7 +62,7 @@ Apache Hadoop is not  included here, as it will be covered in Big Data Analytics
 #+END_COMMENT
 
 {{{unit}}}
-|Unit V|Cloud Security|9|
+| Unit V | Cloud Security | 9 |
 Multi-tenancy Issues: Isolation of users/VMs from each other --
 Virtualization System Vulnerabilities: Management console
 vulnerabilities -- management server vulnerabilities -- administrative
@@ -112,10 +112,6 @@ After the completion of this course, students will be able to:
     Publishing, 2012. (Unit IV)
 11. Krutz, R. L., Vines, R. D, ``Cloud security. A Comprehensive Guide
     To Secure Cloud Computing'', Wiley Publishing, 2010. (Unit V)
-12. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security
+12. Tim Mather, Subra Kumaraswamy, and Shahed Latif, ``Cloud Security
     and Privacy: an enterprise perspective on risks and compliance'',
-    O‘Reilly Media, Inc., 2009. (Unit V)
-
-
-
-
+    O'Reilly Media, Inc., 2009. (Unit V)
