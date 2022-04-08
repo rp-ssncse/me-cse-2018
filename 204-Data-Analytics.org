@@ -96,7 +96,7 @@ After the completion of this course, students will be able to:
 | CO3            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |    
 | CO4            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
 | CO5            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
-| Total     |    |    | 14 |  9  |  9  |  6  |  6  |     |     |     |     |      |      |   
+| Total          |    | 14 |  9  |  9  |  6  |  6  |     |     |     |     |      |      |   
 | Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |     
    
 
