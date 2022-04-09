@@ -6,6 +6,18 @@
 
 #+startup: showall
 
+   ** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
+| CO2            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |  
+| CO3            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
+| CO4            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+| CO5            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+| Total          |    | 12 |  4  |  4  |  4  |  4  |     |     |     |     |      |      |   
+| Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+
 {{{credits}}}
 | L | T | P | C |
 | 2 | 0 | 2 | 3 |
@@ -61,24 +73,25 @@ Home Automation -- Weather monitoring  -- Smart irrigation -- Data Analytics for
 
 ** Course Outcomes
 After completion of this course, students should be able to:
-- Understand the basic buiding blocks and data management in Internet
-  of Things (K2).
+- Understand the basic buiding blocks and data management in Internet of Things (K2).
 - Understand different IoT architectures (K2).
 - Understand various protocols for IoT  (K2).
 - Implement a low cost IoT system using Arduino/Rasperry-Pi (K3).
 - Implement an IoT application in cloud environment (K3).
 
+** Course Outcomes (Batch 2021-2023)
+After completion of this course, students should be able to:
+- Explain the basic building blocks and data management in Internet of Things (K2). 
+- Explain different IoT architectures (K2). 
+- Summarize various protocols for IoT (K2).
+- Develop a low cost IoT system using Arduino/Raspberry-Pi (K3). 
+- Build an IoT application in a cloud environment (K3).
 
 ** References
-1. Jan Holler, Vlasios Tsiatsis, et al, ``From Machine-to-Machine to
-   the Internet of Things -- Introduction to a New Age of
-   Intelligence'', Elsevier, 2014.
-2. Honbo Zhou, ``The Internet of Things in the Cloud: A Middleware
-   Perspective '', CRC Press, 2012.
-3. Olivier Hersent, David Boswarthick and Omar Elloumi, ``The Internet
-   of Things -- Key applications and Protocols'', Wiley, 2012.
-4. Arshdeep Bahga and Vijay Madisetti, ``Internet of Things -- A
-   Hands-on Approach'', Universities Press, 2015.
+1. Jan Holler, Vlasios Tsiatsis, et al, ``From Machine-to-Machine to the Internet of Things -- Introduction to a New Age of Intelligence'', Elsevier, 2014.
+2. Honbo Zhou, ``The Internet of Things in the Cloud: A Middleware Perspective '', CRC Press, 2012.
+3. Olivier Hersent, David Boswarthick and Omar Elloumi, ``The Internet of Things -- Key applications and Protocols'', Wiley, 2012.
+4. Arshdeep Bahga and Vijay Madisetti, ``Internet of Things -- A Hands-on Approach'', Universities Press, 2015.
 
 
 
