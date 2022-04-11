@@ -1,6 +1,6 @@
 * <<<CP1213>>> TECHNICAL PAPER WRITING AND SEMINAR
 :properties:
-:author: R Kanchana
+:author: S. Kavitha & Y V Lokeswari
 :date: 11 July 2018
 :end:
 
@@ -31,7 +31,22 @@ and write as a report. The work involves the following steps:
 
 ** Course Outcomes
 At the end of this course, the students will be able to
-1. clearly talk and write reports about a given topic  (K3)
-2. identify a topic, collect literature, consolidate and report the survey (K4)
-3. make an effective presentation of their survey and observations (K3)
+1. Clearly talk and write reports about a given topic  (K3)
+2. Identify a topic, collect literature, consolidate and report the survey (K4)
+3. Make an effective presentation of their survey and observations (K3)
 
+** Course Outcomes (2021-2023)
+On successful completion of this course, the student will be able to
+1. Construct technical reports clearly for a given topic (K3) 
+2. Analyze and select a topic, collect literature, consolidate (K4) 
+3. Develop an effective presentation of the literature survey and observations (K3)
+
+** CO PO Mapping
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3  | K6  |  K6 |  K6 |  K6 |     |     |     |     |      |      | 
+| CO1            | K3 |  3  |  2  |     |  2  |     |  3  |     |     |  2  |      |   2  |
+| CO2            | K4 |  3  |  2  |     |  2  |     |     |     |     |     |      |   2  |
+| CO3            | K3 |     |     |     |     |     |  3  |     |     |  2  |      |      |
+| Score          |    |  6  |  4  |     |  4  |     |  6  |     |     |  4  |      |   4  |
+| Course Mapping |    |  3  |  2  |     |  2  |     |  2  |     |     |  2  |      |   2  |
