@@ -25,7 +25,7 @@ and write as a report. The work involves the following steps:
    preparing an abstract or outline of the paper and discussing
 5. Critically analysing each paper that have been read, linking them and drawing conclusions.
 6. Writing the technical report about the topic, literature, comparison and observation 
-7.Presenting the report
+7. Presenting the report
 
 \hfill *Total: 30*
 
