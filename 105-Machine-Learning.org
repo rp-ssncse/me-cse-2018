@@ -92,11 +92,9 @@ Markov Random Fields -- Hidden markov models
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Understand the basic concepts of machine learning (K2).
-- Apply linear and non-linear techniques for classification problems
-  (K4).
+- Apply linear and non-linear techniques for classification problems (K4).
 - Develop applications using tree and probabilistic models (K3).
-- Apply various dimensionality reduction techniques and evolutionary
-  models (K3).
+- Apply various dimensionality reduction techniques and evolutionary models (K3).
 - Understand the concepts of graphical models (K2).
       
 ** References
@@ -114,14 +112,14 @@ After the completion of this course, students will be able to:
    that Make Sense of Data'', First Edition, Cambridge University
    Press, 2012.
    
-    ** CO PO MAPPING 
+** CO PO MAPPING 
 #+NAME: co-po-mapping
 |                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
 |                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
 | CO1            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
-| CO2            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |  
+| CO2            | K4 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |  
 | CO3            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
 | CO4            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
-| CO5            | K3 |  2 |     |     |     |     |     |     |     |     |      |      |    
+| CO5            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
 | Total          |    | 13 |  6  |  6  |  6  |  6  |     |     |     |     |      |      |   
 | Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |  
