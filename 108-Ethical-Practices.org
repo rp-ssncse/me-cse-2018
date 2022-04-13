@@ -46,6 +46,14 @@ After the completion of this course, students will be able to:
 - Understand organizational environment and culture (K2).
 - Apply best practices in engineering (K3).
 
+** Course Outcomes (2021-2023)
+After the completion of this course, students will be able to: 
+- Analyse human values and virtues (K4).
+- Analyse the importance of ethical practices in engineering (K4).
+- Apply ethical practices in engineering and technology (K3).
+- Make use of the organizational environment and culture (K3).
+- Analyse best practices in engineering (K4).
+
 ** References
 1. Charles E Harris, Michael S. Protchard and Michael J Rabins,
    ``Engineering Ethics -- Concepts and Cases'', Wadsworth Thompson
@@ -56,3 +64,15 @@ After the completion of this course, students will be able to:
    Prentice Hall, New Jersey, 2004 (Indian Reprint now available).
 4. John R Boatright, ``Ethics and the Conduct of Business'', Pearson
    Education, New Delhi, 2003.
+   
+** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K2 |    |     |     |     |     |  3  |  3  |     |  3  |   3  |  2   |    
+| CO2            | K2 |    |     |     |     |     |  3  |  3  |     |  3  |   3  |  2   |  
+| CO3            | K3 |    |     |     |     |     |  3  |  3  |     |  3  |   3  |  2   |    
+| CO4            | K2 |    |     |     |     |     |  3  |  3  |     |  3  |   3  |  2   |    
+| CO5            | K3 |    |     |     |     |     |  3  |  3  |     |  3  |   3  |  2   |    
+| Total          |    |    |     |     |     |     |  15 |  15 |     | 15  |  15  |  10  |   
+| Course Mapping |    |    |     |     |     |     |  3  |  3  |     |  3  |   3  |   2  | 
