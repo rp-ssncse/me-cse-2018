@@ -6,16 +6,6 @@
 
 #+startup: showall
 
-   ** CO PO MAPPING 
-#+NAME: co-po-mapping
-|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
-|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
-| CO1            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |    
-| CO2            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |  
-| CO3            | K6 |  3 |  3  |  3  |  3  | 3   |     |     |     |     |      |   1  |    
-| Total          |    |  12|  7  |  7  |  3  | 3   |     |     |     |     |      |   1  |   
-| Course Mapping |    |  3 |  3  |  3  |  3  | 3   |     |     |     |     |      |   1  |  
-
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
@@ -110,11 +100,18 @@ After the completion of this course, students will be able to:
 - Develop web applications using a Python-based framework (K6). 
 
 ** References
-1. Jeffrey C Jackson, ``Web Technologies A Computer Science
-   Perspective'', Pearson Education, 2011. (unit I)
-2. Deitel and Deitel and Nieto, ``Internet and World Wide Web - How to
-   Program'', Prentice Hall, 5th Edition, 2011. (unit II)
-3. Brad Green, Shyam Seshadri, ``AngularJS'', First Edition, O’Reilly
-   Media, 2013. (unit III)
-4. Jeff forcier, Paul bissex and Wesley chun, ``Python web development
-   with Django'', Addison-Wesley Professional, 2008. (unit IV, V)
+1. Jeffrey C Jackson, ``Web Technologies A Computer Science  Perspective'', Pearson Education, 2011. (unit I)
+2. Deitel and Deitel and Nieto, ``Internet and World Wide Web - How to  Program'', Prentice Hall, 5th Edition, 2011. (unit II)
+3. Brad Green, Shyam Seshadri, ``AngularJS'', First Edition, O’Reilly  Media, 2013. (unit III)
+4. Jeff forcier, Paul bissex and Wesley chun, ``Python web development with Django'', Addison-Wesley Professional, 2008. (unit IV, V)
+   
+   ** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |    
+| CO2            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |  
+| CO3            | K6 |  3 |  3  |  3  |  3  | 3   |     |     |     |     |      |   1  |    
+| Total          |    |  12|  7  |  7  |  3  | 3   |     |     |     |     |      |   1  |   
+| Course Mapping |    |  3 |  3  |  3  |  3  | 3   |     |     |     |     |      |   1  |  
+
