@@ -91,11 +91,11 @@ Markov Random Fields -- Hidden markov models
 
 ** Course Outcomes
 On successful completion of this course, the student will be able to
--Explain the basic concepts of machine learning (K2)
--Analyze linear and non-linear techniques for classification problems (K4)
--Apply tree and probabilistic models for the given problems (K3)
--Apply various dimensionality reduction techniques and evolutionary models (K3)
--Explain the concepts of graphical models (K2)
+- Explain the basic concepts of machine learning (K2)
+- Analyze linear and non-linear techniques for classification problems (K4)
+- Apply tree and probabilistic models for the given problems (K3)
+- Apply various dimensionality reduction techniques and evolutionary models (K3)
+- Explain the concepts of graphical models (K2)
       
 ** References
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
