@@ -63,7 +63,8 @@ After the completion of this course, students will be able to:
 - Apply machine learning techniques to text classification and clustering which is used for efficient Information Retrieval  (K3)
 - Describe various IR applications (K2)
 
-Course Outcomes (Batch 2021-2023)
+** Course Outcomes (Batch 2021-2023)
+After the completion of this course, students will be able to:
 - Explain various IR modeling techniques (K2)
 - Build the components of an Information Retrieval system (K3)
 - Apply machine learning techniques to text classification and clustering which is used for efficient Information Retrieval (K3)
