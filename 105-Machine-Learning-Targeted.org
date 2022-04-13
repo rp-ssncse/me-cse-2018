@@ -73,9 +73,9 @@ Markov Chain Monte Carlo Methods: Sampling -- Proposal distribution --
 Markov Chain Monte Carlo; Graphical Models: Bayesian networks --
 Markov Random Fields -- Hidden markov models
 
-\begin{comment}
+#+begin_comment
 (Markov Random Fields – Tracking Methods) are removed.
-\end{comment}
+#+end_comment
 
 ** Suggestive Experiments (Python - Numpy, Scipy, Scikit-learn, Matplotlib)
 1. Perceptron and Linear Regression
