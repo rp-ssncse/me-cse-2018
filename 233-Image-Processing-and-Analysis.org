@@ -70,6 +70,13 @@ After the completion of this course, students will be able to:
 - Perform analysis using various image features. (K3)
 - Analyze the multi resolution techniques and methods used for color images. (K3)
 - Make a positive professional contribution in the field of Digital Image Processing. (K4)
+
+Course Outcomes (Batch 2021-2023)
+- Analyze the  enhancement and segmentation algorithms for image processing application. (K4)
+- Choose various image features for segmentation . (K3)
+- Apply the multi resolution techniques and methods for color images. (K3)
+- Examine applications to make a positive professional contribution in the field of Digital Image Processing. (K4)
+
       
 ** References
 1. Rafael C.Gonzalez, Richard E.Woods, ``Digital Image Processing'',
