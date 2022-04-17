@@ -54,8 +54,6 @@ Pipeline: Overall Architecture -- Building and Testing -- Deployment
 -- Crosscutting Concerns: Monitoring -- Security Audits Deployment --
 Case study: Migrating to Microservices.
 
-
-
 \hfill *Total: 45*
 
 ** Course Outcomes
@@ -85,5 +83,16 @@ After the completion of this course, students will be able to:
 7. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
    Architect's Perspective'', Pearson Education, 2016 (Unit V)
 
- 
+** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |    
+| CO2            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |  
+| CO3            | K3 |  3 |  2  |  2  |     |     |     |     |     |     |      |      |    
+| CO4            | K2 |  2 |  1  |  1  |     |     |     |     |     |     |      |      |    
+| CO5            | K2 |  2 |  1  |  1  |     |     |     |     |     |     |      |      |    
+| CO6            | K4 |  3 |  3  |  3  |     |     |     |     |     |     |      |      |    
+| Total          |    | 16 |  11 |  11 |     |     |     |     |     |     |      |      |   
+| Course Mapping |    |  3 |  2  |  2  |     |     |     |     |     |     |      |      |   
 
