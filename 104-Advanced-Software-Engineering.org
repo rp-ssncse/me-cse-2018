@@ -67,16 +67,7 @@ After the completion of this course, students will be able to:
 - Understand Agile software development methodology(K2)
 - Understand the benefits of DevOps practices(K2).
 
-** Course Outcomes (Batch 2021-2023)
-After the completion of this course, students will be able to:
-- Explain software requirements specification and model software system using UML diagrams (K3)
-- Apply formal models to capture requirements (K3)
-- Apply appropriate architectural styles and design patterns (K3)
-- Apply various testing techniques (K3)
-- Outline agile software development methodology (K2)
-- Summarize the benefits of DevOps practices (K2)
 
-      
 # The second and fourth references are unclear.
 ** References
 1. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition,
