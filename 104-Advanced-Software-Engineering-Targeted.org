@@ -60,13 +60,12 @@ Case study: Migrating to Microservices.
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Understand software requirement specification and model software system using UML diagrams  (K3)
-- Apply formal models to capture requirements
-- Apply appropriate architectural styles and design patterns (K3).
-- Apply various testing techniques(K3).
-- Understand Agile software development methodology(K2)
-- Understand the benefits of DevOps practices(K2).
-
+- Explain software requirements specification and design software systems using UML diagrams and formal models(K3)
+- Apply appropriate architectural styles and design patterns (K3)
+- Apply various testing techniques (K3)
+- Describe agile software development methodology (K2)
+- Summarize the benefits of DevOps practices (K2)
+- Design software systems for specific functional and quality requirements (K4)
       
 # The second and fourth references are unclear.
 ** References
