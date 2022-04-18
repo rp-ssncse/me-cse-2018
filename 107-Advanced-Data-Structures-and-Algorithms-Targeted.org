@@ -48,6 +48,6 @@ After the completion of this course, students will be able to:
 |                |    |  K3 |  K6 |  K6 |  K6 |  K6 |     |     |     |     |      |      | 
 | CO1            | K3 |   3 |   2 |   2 |  2  |     |   3 |     |     |     |      |      |
 | CO2            | K3 |   3 |   2 |   2 |  2  |     |    3|     |     |     |      |      |
-| CO3            | K3 |   3 |   2 |   2 |  2  |     |    3|     |     |     |      |      |
+| CO3            | K4 |   3 |   2 |   2 |  2  |     |    3|     |     |     |      |      |
 | Score          |    |   9 |   6 |   6 |  6  |     |    9|     |     |     |      |      |
 | Course Mapping |    |   3 |   2 |   2 |  2  |     |    3|     |     |     |      |      |
