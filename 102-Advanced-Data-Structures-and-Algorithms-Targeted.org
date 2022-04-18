@@ -63,7 +63,7 @@ After the completion of this course, students will be able to:
 - Develop optimal algorithms using tree data structures (K3)
 - Develop optimal algorithms using graph data structures. (K3) 
 - Solve problems using suitable design techniques (K4) 
-- Identify NP type problems. (K2) 
+- Explain NP type problems and their reductions (K2) 
 
       
 ** References
@@ -86,5 +86,5 @@ After the completion of this course, students will be able to:
 | CO3            | K3 |   3 |   2 |   2 |     |     |     |     |     |     |      |      |
 | CO4            | K4 |   3 |   2 |   2 |     |     |     |     |     |     |      |   2  |
 | CO5            | K2 |   2 |     |     |     |     |     |     |     |     |      |      |
-| Score          |    |  14 |   8 |   7 |     |     |     |     |     |     |      |   2  |
+| Score          |    |  14 |   8 |   6 |     |     |     |     |     |     |      |   2  |
 | Course Mapping |    |   3 |   2 |   2 |     |     |     |     |     |     |      |   2  |
