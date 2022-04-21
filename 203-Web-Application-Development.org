@@ -15,11 +15,13 @@
 - To learn web application development using Javascript based framework
 - To learn web application development using Python based 
 
-#\begin{comment}
-#- To understand the concepts of web site development
-#- To learn the basics of python
-#- To learn web application development using Python based framework
-#\end{comment}
+#+BEGIN_COMMENT
+\begin{comment}
+- To understand the concepts of web site development
+- To learn the basics of python
+- To learn web application development using Python based framework
+\end{comment}
+#+END_COMMENT
 
 {{{unit}}}
 |Unit I| Introduction |9|
