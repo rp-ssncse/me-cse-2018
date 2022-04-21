@@ -14,11 +14,15 @@
 - To understand the concepts of web site development
 - To learn web application development using Javascript based framework
 - To learn web application development using Python based framework
+
+#+BEGIN_COMMENT
 \begin{comment}
 - To understand the concepts of web site development
 - To learn the basics of python
 - To learn web application development using Python based framework
 \end{comment}
+#+END_COMMENT
+
 {{{unit}}}
 |Unit I| Introduction |9|
 Web Essentials: Web clients, web servers, communication protocol, HTTP
@@ -77,6 +81,7 @@ Syndication -- Generating downloadable files -- Enhancing Django’s ORM
 
 \hfill *Total: 45*
 
+#+BEGIN_COMMENT
 \begin{comment}
 ** Suggested Mini-projects
 1. Create a college website using HTML5 and CSS3
@@ -86,6 +91,7 @@ Syndication -- Generating downloadable files -- Enhancing Django’s ORM
 4. Develop Library Management System using MVC Django Architecture
 5. Develop Inventory Management System using Django Framework
 \end{comment}
+#+END_COMMENT
 
 ** Course Outcomes:
 After the completion of this course, students will be able to:
