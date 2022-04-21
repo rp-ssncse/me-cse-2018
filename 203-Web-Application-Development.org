@@ -13,12 +13,14 @@
 ** Course Objectives
 - To understand the concepts of web site development
 - To learn web application development using Javascript based framework
-- To learn web application development using Python based framework
-\begin{comment}
-- To understand the concepts of web site development
-- To learn the basics of python
-- To learn web application development using Python based framework
-\end{comment}
+- To learn web application development using Python based 
+
+#\begin{comment}
+#- To understand the concepts of web site development
+#- To learn the basics of python
+#- To learn web application development using Python based framework
+#\end{comment}
+
 {{{unit}}}
 |Unit I| Introduction |9|
 Web Essentials: Web clients, web servers, communication protocol, HTTP
@@ -77,15 +79,15 @@ Syndication -- Generating downloadable files -- Enhancing Django’s ORM
 
 \hfill *Total: 45*
 
-\begin{comment}
-** Suggested Mini-projects
-1. Create a college website using HTML5 and CSS3
-2. Develop a MVC based web application for a Super Market Billing
-   System. Use cookies as part of the web application
-3. Develop online exam web application using AngularJS
-4. Develop Library Management System using MVC Django Architecture
-5. Develop Inventory Management System using Django Framework
-\end{comment}
+#\begin{comment}
+#** Suggested Mini-projects
+#1. Create a college website using HTML5 and CSS3
+#2. Develop a MVC based web application for a Super Market Billing
+#   System. Use cookies as part of the web application
+#3. Develop online exam web application using AngularJS
+#4. Develop Library Management System using MVC Django Architecture
+#5. Develop Inventory Management System using Django Framework
+#\end{comment}
 
 ** Course Outcomes:
 After the completion of this course, students will be able to:
