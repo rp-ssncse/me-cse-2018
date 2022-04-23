@@ -42,9 +42,9 @@ After the completion of this course, students will be able to:
 | CO2            | K3 | 3   |   2 |     |  2  |     |     |     |     |     |      |      |      
 | CO3            | K3 | 3   |   2 |     |     |     |     |     |     |     |      |      |      
 | CO4            | K3 | 3   |     |     |     |     |  2  |     |     |     |      |      |      
-| CO5            | K4 | 3   |   2 |  2  |     |  2  |     |     |     |     |    3 |      |          
-| Score          |    | 14  |   7 |  2  |  2  |  2  |  2  |     |     |     |    3 |      |      
-| Course Mapping |    | 3   |   2 |  2  |  2  |  2  |  2  |     |     |     |    3 |      |      
+| CO5            | K4 | 3   |   2 |  2  |     |  2  |     |     |     |     |      |      |          
+| Score          |    | 14  |   7 |  2  |  2  |  2  |  2  |     |     |     |      |      |      
+| Course Mapping |    | 3   |   2 |  2  |  2  |  2  |  2  |     |     |     |      |      |      
 
 
 {{{unit}}}
