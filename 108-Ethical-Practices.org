@@ -1,6 +1,6 @@
 * <<<PCP1111>>> ETHICAL PRACTICES
 :properties:
-:author: R.Kanchana, J Suresh
+:author: R.Kanchana,S.Kavitha
 :date: 13 July 2018
 :end:
 
@@ -52,7 +52,7 @@ After the completion of this course, students will be able to:
 - Analyse the importance of ethical practices in engineering (K4).
 - Apply ethical practices in engineering and technology (K3).
 - Make use of the organizational environment and culture (K3).
-- Analyse best practices in engineering (K4).
+- Apply best practices in engineering and analyse moral behaviour & responsibility (K4).
 
 ** References
 1. Charles E Harris, Michael S. Protchard and Michael J Rabins,
