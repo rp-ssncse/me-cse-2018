@@ -64,13 +64,20 @@ Multimedia
 
 \hfill *Total: 45*
 
-** Course Outcomes
+** Course Outcomes 
 After the completion of this course, students will be able to: 
-- Design and implement enhancement and segmentation algorithms for image processing application. (K4)
+- Analyze image enhancement and segmentation algorithms for image processing application. (K4)
 - Perform analysis using various image features. (K3)
 - Analyze the multi resolution techniques and methods used for color images. (K3)
 - Make a positive professional contribution in the field of Digital Image Processing. (K4)
-      
+
+   ** Course Outcomes (Batch 2021-2023)
+After the completion of this course, students will be able to: 
+- Design and implement enhancement and segmentation algorithms for image processing application. (K4)
+- Apply the techniques for image analysis using various features. (K3)
+- Make use of the multi resolution techniques and methods used for color images. (K3)
+- Infer a positive professional contribution in the field of Digital Image Processing. (K4)
+
 ** References
 1. Rafael C.Gonzalez, Richard E.Woods, ``Digital Image Processing'',
    Third Edition, Pearson Education, 2008. (Units I, II, III, IV)
